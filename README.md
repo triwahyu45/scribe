@@ -1,4 +1,4 @@
-# scribe — AI Writing, Viral Hooks, Humanizer & Voice DNA
+# SCRIBE — AI Writing, Viral Hooks, Humanizer & Voice DNA
 
 AI Agent Skill for **Antigravity**, **Claude Code**, and **OpenAI Codex**. 5-stage writing chain combining 30-day trend/CRO research, viral hooks, storytelling, 8th-grade Dumbify clarity, Anti-AI Humanizer v4, and Voice DNA matching.
 
@@ -10,13 +10,13 @@ Clone this skill into your agent's global or project skills directory:
 
 | Agent | Global Install Path | Project-Local Path |
 | :--- | :--- | :--- |
-| **Antigravity** | `~/.gemini/config/skills/scribe` | `.agents/skills/scribe` |
-| **Claude Code** | `~/.claude/skills/scribe` | `.claude/skills/scribe` |
-| **OpenAI Codex** | `~/.codex/skills/scribe` | `.agents/skills/scribe` |
+| **Antigravity** | `~/.gemini/config/skills/SCRIBE` | `.agents/skills/SCRIBE` |
+| **Claude Code** | `~/.claude/skills/SCRIBE` | `.claude/skills/SCRIBE` |
+| **OpenAI Codex** | `~/.codex/skills/SCRIBE` | `.agents/skills/SCRIBE` |
 
 ```bash
 # Example (Antigravity / Claude Code / Codex — pick your path):
-git clone https://github.com/triwahyu45/scribe.git ~/.claude/skills/scribe
+git clone https://github.com/triwahyu45/SCRIBE.git ~/.claude/skills/SCRIBE
 ```
 
 ---

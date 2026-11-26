@@ -1,5 +1,5 @@
 ---
-name: scribe
+name: SCRIBE
 description: Unified AI writing, scripting, and growth studio combining 30-day trend research, Viral Hooks, Storytelling, Dumbify (8th-grade readability), Anti-AI Writing + Humanizer v4, Voice DNA cloning, and conversion/CRO copywriting. Use for Reels/YouTube scripts, carousels, newsletters, landing pages, captions, or humanizing any draft.
 ---
 
