@@ -26,6 +26,18 @@ The hook earns 2 seconds; **storytelling earns the rest**:
 
 ---
 
+## 2.5. 5-Act Engineering & Quantitative Documentary Formula (`110–125 WPM`)
+
+Use this calm, high-authority narrative arc for technical, STEM, energy, and engineering explainers:
+
+1. **Numeric / Physical Contrast Hook (0–5s):** Lead with a startling concrete ratio or everyday mystery (*"1 liter = 1,109 km"*, *"Scroll HP, kok air menguap?"*).
+2. **Context & Intuitive Hypothesis (5–20s):** Anchor in real competition/standards or state and test a common misconception (*"Dugaan pertama..."*).
+3. **Mechanism + Unit-to-Physical-Object Analogy (20–65s):** Translate abstract physics/data units into tangible visual objects (e.g., `30 J/m = 3 marbles on a ruler`) backed by real primary-source citations.
+4. **Everyday Relatable Benchmark (65–85s):** Contrast the technical result against the viewer's daily baseline (commuter motorbike, household electricity bill, Rupiah per session).
+5. **Signature Thesis Closing (last 3s):** End every episode with a consistent 3–5 word brand tagline (e.g., *"Hitung dulu, baru hijau."*).
+
+---
+
 ## 3. 30-Day Signal-First Trend Research & CRO (`last30days` + `marketingskills`)
 
 - **Trend Mining**: Search Reddit, X, YouTube, and HN from the past 30 days; rank by real upvotes, comments, and recurring frustrations; extract exact audience phrasing.
