@@ -24,3 +24,10 @@ Turns generic, stiff AI drafts into sharp, high-retention human writing in your 
 - **Viral Hooks, Storytelling & 30-Day Trend/CRO**: [`references/viral-hooks-and-storytelling.md`](references/viral-hooks-and-storytelling.md)
 - **Dumbify, Anti-AI Writing & Humanizer v4**: [`references/dumbify-and-anti-ai.md`](references/dumbify-and-anti-ai.md)
 - **Voice DNA Profile Builder**: [`references/voice-dna-builder.md`](references/voice-dna-builder.md)
+---
+
+## Mandatory Self-Audit & Revise-Before-Delivery Gate
+
+Before delivering any final script, post, or copy:
+1. Run the 3-pass Anti-AI & Dumbify audit (`references/dumbify-and-anti-ai.md`) and read aloud to confirm natural spoken rhythm.
+2. Verify zero lost or altered facts, numbers, names, or causal claims; revise any stiff/generic line before presenting.
