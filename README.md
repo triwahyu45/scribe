@@ -36,6 +36,7 @@ git clone https://github.com/triwahyu45/SCRIBE.git ~/.claude/skills/SCRIBE
 - `references/viral-hooks-and-storytelling.md` — Hook formulas, retention beats, & CRO copy
 - `references/dumbify-and-anti-ai.md` — 8th-grade clarity & 6 AI-slop tell removal
 - `references/voice-dna-builder.md` — Personal tone & cadence cloning
+- `references/youtube-and-instagram-growth.md` — YouTube packaging/retention/chapters/EDL/Shorts & IG captions/carousels/audits
 
 ## When to Trigger / Search Keywords
 

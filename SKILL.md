@@ -24,6 +24,7 @@ Turns generic, stiff AI drafts into sharp, high-retention human writing in your 
 - **Viral Hooks, Storytelling & 30-Day Trend/CRO**: [`references/viral-hooks-and-storytelling.md`](references/viral-hooks-and-storytelling.md)
 - **Dumbify, Anti-AI Writing & Humanizer v4**: [`references/dumbify-and-anti-ai.md`](references/dumbify-and-anti-ai.md)
 - **Voice DNA Profile Builder**: [`references/voice-dna-builder.md`](references/voice-dna-builder.md)
+- **YouTube & Instagram Content Growth**: [`references/youtube-and-instagram-growth.md`](references/youtube-and-instagram-growth.md)
 ---
 
 ## Mandatory Self-Audit & Revise-Before-Delivery Gate
