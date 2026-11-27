@@ -6,6 +6,8 @@
 
 ## 1. YouTube Packaging, Retention & SEO
 
+> **Executable YouTube CLI & Full Channel Ops -> [`SIGNAL`](../../SIGNAL/SKILL.md)**: For scored 21-formula EN/ID hooks (`hookscore.py`), paired title+thumbnail linting (`title.py`), SRT/VTT/Whisper EDL (`deadair.py`), validated chapters (`chapters.py`), Studio retention CSV diagnosis (`retention.py`), and channel-relative outlier mining (`collect_channel.py` + `swipe.py`), use **`SIGNAL`** as primary orchestrator (while `SCRIBE` handles spoken Voice DNA & Anti-AI polish).
+
 - **Title + Thumbnail Pairing**: Audit title & thumbnail together as one unit — keep titles < 60 chars (avoid mobile truncation), never duplicate thumbnail text inside the title, and replace vague teasers with concrete tension/specificity.
 - **First 15s Hook Scoring**: Generate hook candidates across distinct curiosity/contrast/proof formulas, score for Topic Clarity + On-Target Curiosity, and mark spoken retention beats every 15–25s.
 - **Audience Retention Diagnosis**: Read retention curves/CSV exports to locate exact drop spikes (slow intro, re-explaining title, flat visual transition, premature payoff) and prescribe structural fixes before pacing tweaks.
